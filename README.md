@@ -47,20 +47,18 @@ kiss-ai/
 │
 ├── topics/                # Core content organized by theme
 │   ├── cfo-to-ai-story/   # Storytelling: career journey, lessons, pivots
-│   │   ├── notebooks/     # Jupyter/Colab notebooks
-│   │   ├── guides/        # Markdown or PDF guides
-│   │   ├── slides/        # PPT or PDF decks
+│   │   ├── slides/        # PPT, PDF decks or reports
 │   │   └── examples/      # Demo scripts, visuals
 │   │
 │   ├── practical-ai/      # Everyday AI use cases
-│   │   ├── notebooks/
-│   │   ├── guides/
-│   │   ├── slides/
+│   │   ├── notebooks/     # Jupyter/Colab notebooks
+│   │   ├── guides/        # Markdown or PDF guides
+│   │   ├── slides/        # PPT or PDF decks
 │   │   └── assets/        # Images, datasets, media
 │   │
 │   ├── ai-business/       # AI + Business thought leadership
 │   │   ├── articles/      # Markdown essays, blog-style content
-│   │   ├── slides/
+│   │   ├── slides/        # PPT or PDF decks
 │   │   └── references/    # Curated PDFs, reports, readings
 │   │
 │   └── misc/              # Experimental / ad-hoc content
