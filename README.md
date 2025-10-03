@@ -1,6 +1,6 @@
-# KISS AI — Keep It Short & Simple AI
+# kiss-ai (Keep It Short & Simple AI)
 
-Welcome to **KISS AI**, a collection of **simple, practical, and easy-to-apply resources** 
+Welcome to **kiss-ai**, a collection of **simple, practical, and easy-to-apply resources** 
 to help anyone understand and use AI in work and life.
 
 I believe in **Keep It Short & Simple**:
@@ -31,7 +31,7 @@ I believe in **Keep It Short & Simple**:
 
 ---
 
-## 🚀 Why KISS AI?
+## 🚀 Why kiss-ai?
 The topic of Artificial Intelligence is often too complex or hard to digest.  
 KISS AI is about **demystifying AI** by showing you how to **apply it simply** in your work and life.
 
