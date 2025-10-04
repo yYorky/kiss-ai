@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/yYorky/kiss-ai/refs/heads/main/assets/Github%20Banner.jpg)
 
 # kiss-ai 
-## keep it short, keep it simple
+## `keep it short, keep it simple`
 
 Welcome to **kiss-ai**, a collection of **simple, practical, and easy-to-apply resources** 
 to help anyone understand and use AI in work and life.
@@ -23,24 +23,6 @@ I believe in **Keep It Short & Simple**:
 
 - `assets/` → Shared images, icons, datasets.  
 - `templates/` → Standardized README & notebook templates.  
-
----
-
-## 🎯 What You'll Find Here
-- **Notebooks** → hands-on demos of AI/ML concepts.  
-- **Guides (PDF/Markdown)** → step-by-step tutorials.  
-- **Slides** → presentations for quick learning & sharing.  
-- **Case Studies** → real-world applications from finance, retail, and more.  
-
----
-
-## 🚀 Why kiss-ai?
-The topic of Artificial Intelligence is often too complex or hard to digest.  
-KISS AI is about **demystifying AI** by showing you how to **apply it simply** in your work and life.
-
----
-
-## Repo Structure
 
 ```
 kiss-ai/
@@ -72,3 +54,18 @@ kiss-ai/
     ├── README_template.md # For subfolders
     └── notebook_template.ipynb
 ```
+---
+
+## 🎯 What You'll Find Here
+- **Notebooks** → hands-on demos of AI/ML concepts.  
+- **Guides (PDF/Markdown)** → step-by-step tutorials.  
+- **Slides** → presentations for quick learning & sharing.  
+- **Case Studies** → real-world applications from finance, retail, and more.  
+
+---
+
+## 🚀 Why kiss-ai?
+The topic of Artificial Intelligence is often too complex or hard to digest.  
+KISS AI is about **demystifying AI** by showing you how to **apply it simply** in your work and life.
+
+
