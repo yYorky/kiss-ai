@@ -1,4 +1,7 @@
-# kiss-ai (Keep It Short & Simple AI)
+![](https://raw.githubusercontent.com/yYorky/kiss-ai/refs/heads/main/assets/Github%20Banner.jpg)
+
+# kiss-ai 
+## keep it short, keep it simple
 
 Welcome to **kiss-ai**, a collection of **simple, practical, and easy-to-apply resources** 
 to help anyone understand and use AI in work and life.
